@@ -1,0 +1,66 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+.env
+*.env
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# ----------------------------
+# Jupyter Notebook
+# ----------------------------
+.ipynb_checkpoints/
+# (Optional) Uncomment if you don't want notebooks tracked
+# *.ipynb
+
+# ----------------------------
+# IDE / Editor Files
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------------
+# OS-generated files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Project-specific
+# ----------------------------
+
+# Data files
+data/
+*.pdf
+*.txt
+*.csv
+
+# Model cache / embeddings
+*.bin
+*.ckpt
+
+# LangChain cache
+.lc-cache/
+.cache/
+
+# ----------------------------
+# Misc
+# ----------------------------
+*.bak
+*~
